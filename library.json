@@ -1,0 +1,19 @@
+{
+    "name": "MC33996",
+    "keywords": "Freescale, MC33996",
+    "description": "Arduino library for controling the freescale MC3996",
+    "authors":
+    {
+        "name": "Pikoko",
+        "email": "Pikoko@nightflyerfireworks.com",
+        "url": "https://github.com/Pikokosan/MC33996"
+    },
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/Pikokosan/MC33996"
+    },
+    "version": "0.0.1"
+    "frameworks": "arduino",
+    "platforms": "atmelavr"
+}
