@@ -13,7 +13,7 @@
         "type": "git",
         "url": "https://github.com/Pikokosan/MC33996"
     },
-    "version": "0.0.1"
+    "version": "0.0.1",
     "frameworks": "arduino",
     "platforms": "atmelavr"
 }
